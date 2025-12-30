@@ -1,4 +1,3 @@
-package pl.buliasz;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -187,3 +186,4 @@ public class Retry {
         System.out.println(maxavg +" avg:"+totavg);
     }
 }
+
